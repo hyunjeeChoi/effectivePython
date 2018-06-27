@@ -1,0 +1,11 @@
+* 버전 확인
+
+```
+ python --version
+ >Python 2.7.10
+ python3 --version
+ >Python 3.6.5
+```
+
+
+
